@@ -67,6 +67,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="NewSourceFile.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
